@@ -1,4 +1,4 @@
 package collections;
 
-public class sample {
+public class sets {
 }
